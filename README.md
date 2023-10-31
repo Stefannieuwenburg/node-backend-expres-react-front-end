@@ -10,5 +10,6 @@
 
 ### `npm start`
 
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### For client side you can Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+### For server side you can Open [http://localhost:5000](http://localhost:5000) to view it in your browser.
