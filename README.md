@@ -8,7 +8,6 @@
 ### second run the react front end white: 'npm start'
 
 
-### `npm start`
 
 ### For client side you can Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
